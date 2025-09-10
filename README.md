@@ -9,6 +9,7 @@ This repository serves as a portfolio of the work i've done to learn more about 
 
 # Technologies Used
 Languages: Python 3.x, C++17/20
+
 Libraries:
 - Python: Numpy, pandas, matplotlib, yfinance
 - C++: Boost, Eigen, Quantlib
