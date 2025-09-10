@@ -1,4 +1,6 @@
-This project simulates a basic exchange-style limit book order with price-time priority matching. It supports market mechanics like bid.ask queues, trade execution, and order book visualization
+## Description
+This project simulates a basic exchange-style limit book order with price-time priority matching. 
+It supports market mechanics like bid.ask queues, trade execution, and order book visualization
 
 ## Features
 - FIFO Matching Engine
