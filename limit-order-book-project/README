@@ -1,1 +1,17 @@
-This is the part where I describe what the program does and how to use it
+This project simulates a basic exchange-style limit book order with price-time priority matching. It supports market mechanics like bid.ask queues, trade execution, and order book visualization
+
+## Features
+- FIFO Matching Engine
+- Buy/Sell Order Queues
+- Trade Execution Logic
+- Order book depth visualization
+
+## How to Run
+```bash
+python simulator.py
+
+## Future Improvement Ideas
+- Unit tests for matching logic
+- Dashboard for easier interaction
+- Port core matching logic to C++
+- Integration with real-time data
